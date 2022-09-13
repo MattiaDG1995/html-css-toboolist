@@ -1,0 +1,26 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+header{
+    height: 5vw;
+    width: 100vw;
+    background-color: aqua;
+}
+
+
+.container{
+    padding: 5px;
+}
+
+.logo{
+    vertical-align: middle;
+}
+
+span{
+    font-size: 40px;
+    margin-bottom: 5px;
+    vertical-align: middle;
+}
